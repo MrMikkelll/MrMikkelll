@@ -20,12 +20,48 @@
   <a href="mailto:mld.damgaard@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/certs/fundamentals.svg" alt="Microsoft Fundamentals Certifications" width="72" />
-  <img src="./assets/certs/associate.svg" alt="Microsoft Associate Certifications" width="72" />
-  <img src="./assets/certs/fca.svg" alt="Fortinet Certified Associate" width="72" />
-  <img src="./assets/certs/ccna.svg" alt="Cisco CCNA" width="72" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="72" /><br />
+      <sub><b>AZ-900</b></sub><br />
+      <sub>Azure Fundamentals</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="72" /><br />
+      <sub><b>MS-900</b></sub><br />
+      <sub>Microsoft 365 Fundamentals</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance, and Identity Fundamentals" width="72" /><br />
+      <sub><b>SC-900</b></sub><br />
+      <sub>Security, Compliance and Identity Fundamentals</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="72" /><br />
+      <sub><b>MD-102</b></sub><br />
+      <sub>Endpoint Administrator</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="72" /><br />
+      <sub><b>SC-300</b></sub><br />
+      <sub>Identity and Access Administrator</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="72" /><br />
+      <sub><b>FCA</b></sub><br />
+      <sub>Fortinet Certified Associate</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="72" /><br />
+      <sub><b>CCNA</b></sub><br />
+      <sub>Cisco Certified Network Associate</sub>
+    </td>
+    <td align="center" width="110"></td>
+  </tr>
+</table>
 
 ---
 
