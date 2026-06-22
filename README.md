@@ -21,18 +21,16 @@
 </p>
 
 <p align="center">
-  <img src="./assets/certs/sc300.png" alt="SC-300" width="84" />
-  <img src="./assets/certs/md102.png" alt="MD-102" width="84" />
-  <img src="./assets/certs/az900.png" alt="AZ-900" width="84" />
-  <img src="./assets/certs/ms900.png" alt="MS-900" width="84" />
-  <img src="./assets/certs/sc900.png" alt="SC-900" width="84" />
-  <img src="./assets/certs/fca.png" alt="FCA" width="84" />
-  <img src="./assets/certs/ccna.png" alt="CCNA" width="84" />
+  <img src="./assets/certs/fundamentals.svg" alt="Microsoft Fundamentals Certifications" width="72" />
+  <img src="./assets/certs/associate.svg" alt="Microsoft Associate Certifications" width="72" />
+  <img src="./assets/certs/fca.svg" alt="Fortinet Certified Associate" width="72" />
+  <img src="./assets/certs/ccna.svg" alt="Cisco CCNA" width="72" />
 </p>
 
 ---
 
 ### <strong>About me</strong>
+
 I’m **Mikkel Damgaard**, a **Junior Cloud Infrastructure Consultant** from Denmark, based near Herning.
 
 My day-to-day work is centered around **Microsoft Cloud**, especially **Intune**, **Entra**, and practical endpoint management. Outside of work, I spend a lot of time in my **Linux homelab**, where I build and test infrastructure with **Proxmox** and **Docker**.
@@ -41,26 +39,19 @@ I’m also working toward becoming a **Microsoft Student Ambassador**, while con
 
 Outside of tech, I’m into **sports, woodworking, and cooking**.
 
+---
+
 ### <strong>Core areas</strong>
+
 **Microsoft:** Intune, Entra ID, Microsoft 365  
 **Infrastructure:** Endpoint management, lifecycle, automation  
 **Homelab:** Proxmox, Docker, Linux, self-hosted services  
 **Other:** PowerShell, networking, security fundamentals
 
+---
+
 ### <strong>Featured links</strong>
+
 - **[My website](https://mikkeldamgaard.dk)** — blog posts, technical notes, and personal projects
 - **[Modern deployment with Autopilot](https://mikkeldamgaard.dk/knowledge-base/microsoft-intune/part-1-modern-deployent-autopilot-enrollment-and-configuration)** — Intune / Autopilot walkthrough
 - **[Homelab](https://mikkeldamgaard.dk/home-server)** — infrastructure, services, and self-hosting
-
-### <strong>Certifications</strong>
-<p align="center">
-  <img src="./assets/certs/sc300.png" alt="SC-300 Identity and Access Administrator" width="110" />
-  <img src="./assets/certs/md102.png" alt="MD-102 Endpoint Administrator" width="110" />
-  <img src="./assets/certs/az900.png" alt="AZ-900 Azure Fundamentals" width="110" />
-  <img src="./assets/certs/ms900.png" alt="MS-900 Microsoft 365 Fundamentals" width="110" />
-</p>
-<p align="center">
-  <img src="./assets/certs/sc900.png" alt="SC-900 Security, Compliance, and Identity Fundamentals" width="110" />
-  <img src="./assets/certs/fca.png" alt="Fortinet Certified Associate" width="110" />
-  <img src="./assets/certs/ccna.png" alt="CCNA Cisco Certified Network Associate" width="110" />
-</p>
