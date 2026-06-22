@@ -20,7 +20,7 @@
   <a href="mailto:mld.damgaard@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<table align="center" border="0" cellpadding="2" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="28" /><br />
