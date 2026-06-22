@@ -23,7 +23,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="28" /><br />
+      <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="40" /><br />
       <sub><b>AZ-900</b></sub><br />
       <sub>Azure Fundamentals</sub>
     </td>
