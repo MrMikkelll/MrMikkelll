@@ -1,93 +1,86 @@
-# Hi, I'm Mikkel Damgaard 👋
+<h1 align="center">Hi, I'm Mikkel 👋</h1>
 
-**Junior Cloud Infrastructure Consultant | Microsoft Cloud | Linux Homelab**
+<p align="center">
+  <b>Junior Cloud Infrastructure Consultant</b><br>
+  Microsoft Cloud • Intune • Entra • Linux Homelabbing
+</p>
 
 ---
 
 ## About me
 
-My name is Mikkel, I’m 21 years old and based in Denmark near Herning.  
-I work with Microsoft Cloud technologies and infrastructure, and I spend a lot of my time building and experimenting in my own homelab environment.
+I’m a 21-year-old infrastructure-focused IT professional based in Denmark (near Herning).
 
-Outside of IT, I enjoy sports, woodworking, and cooking.
+I work daily with Microsoft Cloud technologies and endpoint management, while continuously building and evolving my own homelab environment.
 
-I am currently working toward becoming a **Microsoft Student Ambassador**, where I focus on sharing knowledge through blog posts and contributing to the Microsoft community.  
-I am also part of the **Microsoft Intune / Entra community**, with a goal of strengthening the platform and contributing to real-world improvements.
+Alongside my work, I’m actively contributing to the Microsoft ecosystem:
+- Working toward becoming a **Microsoft Student Ambassador**
+- Member of the **Microsoft Intune / Entra community**
 
----
-
-## What I work with
-
-- Microsoft Intune  
-- Microsoft Entra ID  
-- Microsoft 365  
-- Endpoint management & automation  
-- Infrastructure & device lifecycle  
-- Linux systems  
-- Virtualization & self-hosting  
+Outside of tech, I spend time on sports, woodworking, and cooking.
 
 ---
 
-## Homelab & technical focus
+## Core focus
 
-I actively run a homelab where I test and build infrastructure solutions, including:
+- **Microsoft Intune & Endpoint Management**
+- **Microsoft Entra ID & identity**
+- **Infrastructure & device lifecycle**
+- **Linux & self-hosted systems**
+- **Automation & practical IT solutions**
+
+---
+
+## Homelab
+
+I use my homelab as a real-world testing environment for infrastructure and services:
 
 - Proxmox virtualization
-- Docker & container-based services
+- Docker-based services
 - Identity & access solutions
-- Monitoring and automation
-- Network and security concepts
+- Monitoring & automation
+- Networking experiments
 
-🔗 Read more:  
-- https://mikkeldamgaard.dk/home-server  
+🔗 https://mikkeldamgaard.dk/home-server
 
 ---
 
-## Featured content
+## Content & work
 
 ### Microsoft Intune – Modern Deployment (Autopilot)
-Deep dive into Autopilot enrollment and configuration.
 
-🔗 https://mikkeldamgaard.dk/knowledge-base/microsoft-intune/part-1-modern-deployent-autopilot-enrollment-and-configuration  
+Practical guide covering Autopilot enrollment and configuration.
+
+🔗 https://mikkeldamgaard.dk/knowledge-base/microsoft-intune/part-1-modern-deployent-autopilot-enrollment-and-configuration
 
 ---
 
 ## Certifications
 
+<p align="center">
+  <!-- Replace these with actual badge image URLs -->
+  <img src="CERT_IMAGE_SC300" height="80"/>
+  <img src="CERT_IMAGE_MD102" height="80"/>
+  <img src="CERT_IMAGE_AZ900" height="80"/>
+  <img src="CERT_IMAGE_MS900" height="80"/>
+  <img src="CERT_IMAGE_SC900" height="80"/>
+  <img src="CERT_IMAGE_FCA" height="80"/>
+  <img src="CERT_IMAGE_CCNA" height="80"/>
+</p>
+
+**Microsoft**
 - SC-300 – Identity and Access Administrator  
 - MD-102 – Endpoint Administrator  
 - AZ-900 – Azure Fundamentals  
 - MS-900 – Microsoft 365 Fundamentals  
 - SC-900 – Security, Compliance and Identity Fundamentals  
-- Fortinet Certified Associate (FCA)  
-- CCNA – Cisco Certified Network Associate  
-
----
-
-## Tech stack
-
-**Microsoft**
-- Intune  
-- Entra ID  
-- Microsoft 365  
-
-**Infrastructure**
-- Windows  
-- Linux  
-- Proxmox  
 
 **Other**
-- Docker  
-- Networking & security fundamentals  
-- PowerShell & scripting  
+- Fortinet Certified Associate (FCA)  
+- Cisco CCNA  
 
 ---
 
-## Connect with me
+## Tech
 
-- 🌐 Website: https://mikkeldamgaard.dk  
-- 💼 LinkedIn: https://www.linkedin.com/in/mikkel-damgaard/  
-- 📚 Microsoft Learn: https://learn.microsoft.com/en-us/users/mikkeldamgrd-9811/?WT.mc_id=studentamb_510215  
-- 📧 Email: mld.damgaard@gmail.com  
-
----
+**Microsoft**
