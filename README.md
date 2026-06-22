@@ -20,48 +20,43 @@
   <a href="mailto:mld.damgaard@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="72" /><br />
-      <sub><b>AZ-900</b></sub><br />
-      <sub>Azure Fundamentals</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="72" /><br />
-      <sub><b>MS-900</b></sub><br />
-      <sub>Microsoft 365 Fundamentals</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance, and Identity Fundamentals" width="72" /><br />
-      <sub><b>SC-900</b></sub><br />
-      <sub>Security, Compliance and Identity Fundamentals</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="72" /><br />
-      <sub><b>MD-102</b></sub><br />
-      <sub>Endpoint Administrator</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="72" /><br />
-      <sub><b>SC-300</b></sub><br />
-      <sub>Identity and Access Administrator</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="72" /><br />
-      <sub><b>FCA</b></sub><br />
-      <sub>Fortinet Certified Associate</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="72" /><br />
-      <sub><b>CCNA</b></sub><br />
-      <sub>Cisco Certified Network Associate</sub>
-    </td>
-    <td align="center" width="110"></td>
-  </tr>
-</table>
+<p align="center">
+  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="34" /><br />
+    <sub><b>AZ-900</b></sub><br />
+    <sub>Azure Fundamentals</sub>
+  </span>
+  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="34" /><br />
+    <sub><b>MS-900</b></sub><br />
+    <sub>Microsoft 365 Fundamentals</sub>
+  </span>
+  <span style="display:inline-block; width:98px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance and Identity Fundamentals" width="34" /><br />
+    <sub><b>SC-900</b></sub><br />
+    <sub>Security, Compliance & Identity</sub>
+  </span>
+  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="34" /><br />
+    <sub><b>MD-102</b></sub><br />
+    <sub>Endpoint Admin</sub>
+  </span>
+  <span style="display:inline-block; width:98px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="34" /><br />
+    <sub><b>SC-300</b></sub><br />
+    <sub>Identity & Access</sub>
+  </span>
+  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="34" /><br />
+    <sub><b>FCA</b></sub><br />
+    <sub>Fortinet Assoc.</sub>
+  </span>
+  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 4px;">
+    <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="34" /><br />
+    <sub><b>CCNA</b></sub><br />
+    <sub>Cisco Network Assoc.</sub>
+  </span>
+</p>
 
 ---
 
