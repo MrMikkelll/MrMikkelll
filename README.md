@@ -20,43 +20,45 @@
   <a href="mailto:mld.damgaard@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <span style="display:inline-block; width:76px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="30" /><br />
-    <sub><b>AZ-900</b></sub><br />
-    <sub>Azure</sub>
-  </span>
-  <span style="display:inline-block; width:76px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="30" /><br />
-    <sub><b>MS-900</b></sub><br />
-    <sub>M365</sub>
-  </span>
-  <span style="display:inline-block; width:80px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance and Identity Fundamentals" width="30" /><br />
-    <sub><b>SC-900</b></sub><br />
-    <sub>Security</sub>
-  </span>
-  <span style="display:inline-block; width:80px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="30" /><br />
-    <sub><b>MD-102</b></sub><br />
-    <sub>Endpoint</sub>
-  </span>
-  <span style="display:inline-block; width:80px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="30" /><br />
-    <sub><b>SC-300</b></sub><br />
-    <sub>Identity</sub>
-  </span>
-  <span style="display:inline-block; width:76px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="30" /><br />
-    <sub><b>FCA</b></sub><br />
-    <sub>Fortinet</sub>
-  </span>
-  <span style="display:inline-block; width:76px; text-align:center; vertical-align:top; margin:0 2px 8px 2px;">
-    <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="30" /><br />
-    <sub><b>CCNA</b></sub><br />
-    <sub>Cisco</sub>
-  </span>
-</p>
+<table align="center" border="0" cellpadding="2" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="28" /><br />
+      <sub><b>AZ-900</b></sub><br />
+      <sub>Azure Fundamentals</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="28" /><br />
+      <sub><b>MS-900</b></sub><br />
+      <sub>Microsoft 365 Fundamentals</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance and Identity Fundamentals" width="28" /><br />
+      <sub><b>SC-900</b></sub><br />
+      <sub>Security, Compliance & Identity</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="28" /><br />
+      <sub><b>MD-102</b></sub><br />
+      <sub>Endpoint Admin</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="28" /><br />
+      <sub><b>SC-300</b></sub><br />
+      <sub>Identity & Access</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="28" /><br />
+      <sub><b>FCA</b></sub><br />
+      <sub>Fortinet Assoc.</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="28" /><br />
+      <sub><b>CCNA</b></sub><br />
+      <sub>Cisco Network Assoc.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
