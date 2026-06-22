@@ -1,88 +1,66 @@
-<div align="center">
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mikkel-damgaard/">Mikkel</a> ☁️</h1>
 
-# Mikkel Damgaard
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Microsoft+Cloud+%26+Endpoint+Management;Intune%2C+Entra%2C+Proxmox+%26+Docker;Building%2C+testing%2C+and+improving+real+infrastructure"
+    alt="Typing SVG"
+  />
+</p>
 
-**Junior Cloud Infrastructure Consultant**  
-*Microsoft Cloud · Intune · Entra · Linux Homelab*
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Intune%20%26%20Entra-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Homelab-Proxmox%20%26%20Docker-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure-374151?style=for-the-badge" />
+</p>
 
-<a href="https://mikkeldamgaard.dk">Website</a> ·
-<a href="https://www.linkedin.com/in/mikkel-damgaard/">LinkedIn</a> ·
-<a href="https://learn.microsoft.com/en-us/users/mikkeldamgrd-9811/?WT.mc_id=studentamb_510215">Microsoft Learn</a> ·
-<a href="mailto:mld.damgaard@gmail.com">Email</a>
+<p align="center">
+  <a href="https://mikkeldamgaard.dk"><img src="https://img.shields.io/badge/Website-mikkeldamgaard.dk-111827?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mikkel-damgaard/"><img src="https://img.shields.io/badge/LinkedIn-Mikkel%20Damgaard-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/mikkeldamgrd-9811/?WT.mc_id=studentamb_510215"><img src="https://img.shields.io/badge/Microsoft%20Learn-Profile-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" /></a>
+  <a href="mailto:mld.damgaard@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-</div>
-
----
-
-## About
-
-I'm Mikkel, a 21-year-old infrastructure-focused IT professional from Denmark, based near Herning.
-
-I work primarily with **Microsoft Cloud** technologies and endpoint management, and I spend a lot of my free time building, testing, and improving services in my own **Linux-based homelab**.
-
-I’m currently working toward becoming a **Microsoft Student Ambassador**, where I focus on sharing knowledge through blog posts and community engagement. I’m also part of the **Microsoft Intune / Entra advisors’ community**, with a goal of helping strengthen the Microsoft platform through practical feedback and real-world experience.
-
-Outside of IT, I’m into **sports, woodworking, and cooking**.
-
----
-
-## Focus areas
-
-- **Microsoft Intune**
-- **Microsoft Entra ID**
-- **Microsoft 365**
-- **Endpoint management & automation**
-- **Linux systems**
-- **Proxmox virtualization**
-- **Docker-based services**
+<p align="center">
+  <img src="./assets/certs/sc300.png" alt="SC-300" width="84" />
+  <img src="./assets/certs/md102.png" alt="MD-102" width="84" />
+  <img src="./assets/certs/az900.png" alt="AZ-900" width="84" />
+  <img src="./assets/certs/ms900.png" alt="MS-900" width="84" />
+  <img src="./assets/certs/sc900.png" alt="SC-900" width="84" />
+  <img src="./assets/certs/fca.png" alt="FCA" width="84" />
+  <img src="./assets/certs/ccna.png" alt="CCNA" width="84" />
+</p>
 
 ---
 
-## Projects & writing
+### <strong>About me</strong>
+I’m **Mikkel Damgaard**, a **Junior Cloud Infrastructure Consultant** from Denmark, based near Herning.
 
-### Modern deployment with Autopilot
-A practical Microsoft Intune guide focused on enrollment and configuration.
+My day-to-day work is centered around **Microsoft Cloud**, especially **Intune**, **Entra**, and practical endpoint management. Outside of work, I spend a lot of time in my **Linux homelab**, where I build and test infrastructure with **Proxmox** and **Docker**.
 
-**Read more:**  
-<https://mikkeldamgaard.dk/knowledge-base/microsoft-intune/part-1-modern-deployent-autopilot-enrollment-and-configuration>
+I’m also working toward becoming a **Microsoft Student Ambassador**, while contributing to the **Microsoft Intune / Entra advisors’ community** through knowledge sharing and real-world feedback.
 
-### Homelab
-My personal lab where I work with infrastructure, virtualization, self-hosting, and platform testing.
+Outside of tech, I’m into **sports, woodworking, and cooking**.
 
-**Read more:**  
-<https://mikkeldamgaard.dk/home-server>
+### <strong>Core areas</strong>
+**Microsoft:** Intune, Entra ID, Microsoft 365  
+**Infrastructure:** Endpoint management, lifecycle, automation  
+**Homelab:** Proxmox, Docker, Linux, self-hosted services  
+**Other:** PowerShell, networking, security fundamentals
 
----
+### <strong>Featured links</strong>
+- **[My website](https://mikkeldamgaard.dk)** — blog posts, technical notes, and personal projects
+- **[Modern deployment with Autopilot](https://mikkeldamgaard.dk/knowledge-base/microsoft-intune/part-1-modern-deployent-autopilot-enrollment-and-configuration)** — Intune / Autopilot walkthrough
+- **[Homelab](https://mikkeldamgaard.dk/home-server)** — infrastructure, services, and self-hosting
 
-## Certifications
-
-<div align="center">
-  <img src="./assets/certs/sc300.png" alt="SC-300 Identity and Access Administrator" width="190" />
-  <img src="./assets/certs/md102.png" alt="MD-102 Endpoint Administrator" width="190" />
-  <img src="./assets/certs/az900.png" alt="AZ-900 Azure Fundamentals" width="190" />
-</div>
-
-<div align="center">
-  <img src="./assets/certs/ms900.png" alt="MS-900 Microsoft 365 Fundamentals" width="190" />
-  <img src="./assets/certs/sc900.png" alt="SC-900 Security, Compliance, and Identity Fundamentals" width="190" />
-  <img src="./assets/certs/fca.png" alt="Fortinet Certified Associate" width="190" />
-  <img src="./assets/certs/ccna.png" alt="CCNA Cisco Certified Network Associate" width="190" />
-</div>
-
----
-
-## Tech
-
-```text
-Microsoft Intune   Microsoft Entra ID   Microsoft 365
-Proxmox            Docker                Linux
-PowerShell         Endpoint Management   Infrastructure
-```
-
----
-
-## Current direction
-
-- Building and refining my homelab platform
-- Sharing Microsoft-focused content on my website
-- Growing deeper in Intune, Entra, and practical cloud infrastructure
+### <strong>Certifications</strong>
+<p align="center">
+  <img src="./assets/certs/sc300.png" alt="SC-300 Identity and Access Administrator" width="110" />
+  <img src="./assets/certs/md102.png" alt="MD-102 Endpoint Administrator" width="110" />
+  <img src="./assets/certs/az900.png" alt="AZ-900 Azure Fundamentals" width="110" />
+  <img src="./assets/certs/ms900.png" alt="MS-900 Microsoft 365 Fundamentals" width="110" />
+</p>
+<p align="center">
+  <img src="./assets/certs/sc900.png" alt="SC-900 Security, Compliance, and Identity Fundamentals" width="110" />
+  <img src="./assets/certs/fca.png" alt="Fortinet Certified Associate" width="110" />
+  <img src="./assets/certs/ccna.png" alt="CCNA Cisco Certified Network Associate" width="110" />
+</p>
