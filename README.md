@@ -21,40 +21,33 @@
 </p>
 
 <p align="center">
-  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="34" /><br />
-    <sub><b>AZ-900</b></sub><br />
-    <sub>Azure Fund.</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/fundamentals.svg" alt="AZ-900 Azure Fundamentals" width="34" />
+    <sub><b>AZ-900</b> Azure Fundamentals</sub>
   </span>
-  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="34" /><br />
-    <sub><b>MS-900</b></sub><br />
-    <sub>M365 Fund.</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/fundamentals.svg" alt="MS-900 Microsoft 365 Fundamentals" width="34" />
+    <sub><b>MS-900</b> Microsoft 365 Fundamentals</sub>
   </span>
-  <span style="display:inline-block; width:96px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance and Identity Fundamentals" width="34" /><br />
-    <sub><b>SC-900</b></sub><br />
-    <sub>Sec. & Identity</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/fundamentals.svg" alt="SC-900 Security, Compliance & Identity Fundamentals" width="34" />
+    <sub><b>SC-900</b> Security, Compliance & Identity</sub>
   </span>
-  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="34" /><br />
-    <sub><b>MD-102</b></sub><br />
-    <sub>Endpoint Admin</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/associate.svg" alt="MD-102 Endpoint Administrator" width="34" />
+    <sub><b>MD-102</b> Endpoint Admin</sub>
   </span>
-  <span style="display:inline-block; width:96px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="34" /><br />
-    <sub><b>SC-300</b></sub><br />
-    <sub>Identity & Access</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/associate.svg" alt="SC-300 Identity and Access Administrator" width="34" />
+    <sub><b>SC-300</b> Identity & Access</sub>
   </span>
-  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="34" /><br />
-    <sub><b>FCA</b></sub><br />
-    <sub>Fortinet Assoc.</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/fca.svg" alt="FCA Fortinet Certified Associate" width="34" />
+    <sub><b>FCA</b> Fortinet Assoc.</sub>
   </span>
-  <span style="display:inline-block; width:88px; text-align:center; vertical-align:top; margin:0 3px 10px 3px;">
-    <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="34" /><br />
-    <sub><b>CCNA</b></sub><br />
-    <sub>Cisco Assoc.</sub>
+  <span style="display:inline-flex; align-items:center; gap:6px; margin:0 6px; white-space:nowrap;">
+    <img src="./assets/certs/ccna.svg" alt="CCNA Cisco Certified Network Associate" width="34" />
+    <sub><b>CCNA</b> Cisco Network Assoc.</sub>
   </span>
 </p>
 
